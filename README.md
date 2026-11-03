@@ -148,6 +148,8 @@ The first start takes a few minutes, because the app builds the vector database 
 
 The app is deployed on Streamlit Community Cloud from this repository. The API key is stored in the platform's secrets settings and is never committed to GitHub.
 
+My project link =  https://insurance-policy-rag-chatbot-ahxkxpvh2rmc7rmabph286.streamlit.app/
+
 ## Disclaimer
 
 This is a learning project using public policy documents. It is not insurance, legal or financial advice.
